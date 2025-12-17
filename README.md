@@ -4,6 +4,18 @@ Développeur Python en Terminale, spécialisé dans la **résolution de problèm
 
 ---
 
+## 🧠 Compétences principales
+
+- 🐍 Python (scripts, automatisation, algorithmes)
+- 📊 Manipulation et analyse de données (CSV, statistiques simples)
+- 🧹 Nettoyage et structuration de données
+- 🕸️ Web scraping (requests, BeautifulSoup)
+- 🧮 Algorithmique et logique (problèmes classiques)
+- 🌐 Bases en HTML / CSS
+- 🗂️ Organisation de projets et bonnes pratiques GitHub
+
+---
+
 ## 🧠 Services proposés
 
 ### 🔹 Scripts Python sur mesure
@@ -13,11 +25,22 @@ Développeur Python en Terminale, spécialisé dans la **résolution de problèm
 * génération de rapports
 * calculs et statistiques personnalisés
 
+### 🔹 Web scraping & organisation des données
+* extraction de données depuis plusieurs pages web
+* gestion de la pagination
+* sauvegarde en fichiers CSV
+* génération de rapports récapitulatifs
+
 ### 🔹 Analyse de données simples
 
 * calcul de moyennes, totaux et classements
 * structuration et export des données
 * scripts clairs et réutilisables
+
+### 🔹 Nettoyage des données
+* supprimer les valeurs inutiles
+* détecter les problèmes de tableurs
+* création d'un nouveau CSV réorganisé
 
 ### 🔹 Algorithmique & résolution de problèmes
 
@@ -27,81 +50,47 @@ Développeur Python en Terminale, spécialisé dans la **résolution de problèm
 
 ---
 
-## 📁 Projets représentatifs
+## 📂 Projets principaux
 
-### 📊 Analyse de résultats scolaires en Python
-
-Projet d’analyse automatique de données à partir d’un fichier CSV.
-
-**Compétences mises en œuvre :**
-
-* lecture et écriture de fichiers
-* manipulation de données structurées
-* calculs statistiques
-* génération automatique d’un rapport
-
-👉 Objectif : proposer une solution claire et automatisée à un problème concret.
+### 📊 Analyse de données CSV
+Analyse automatique de fichiers CSV :
+- calcul de moyennes et statistiques,
+- identification de valeurs extrêmes,
+- génération de rapports textuels.
 
 ---
 
-### 🧠 python-algorithms
-
-Collection d’algorithmes implémentés en Python.
-
-**Compétences mises en œuvre :**
-
-* raisonnement algorithmique
-* optimisation des solutions
-* code structuré et lisible
-
-👉 Objectif : démontrer une maîtrise progressive de l’algorithmique.
+### 🧠 Python Algorithms
+Implémentation d’algorithmes classiques en Python :
+- sous-tableau de somme maximale,
+- logique algorithmique,
+- approche claire et commentée.
 
 ---
 
-## 🌐 Autres compétences
+### 🕸️ Python Web Scraping
+Projet complet de **scraping web**, nettoyage et analyse de données e-commerce :
 
-* Bases en **HTML / CSS**
-* Création de pages web simples
-* Bonne capacité d’apprentissage et d’adaptation
-
----
-
-## 🎯 Types de missions acceptées
-
-* scripts Python simples ou intermédiaires
-* aide à des projets étudiants
-* automatisation de tâches répétitives
-* analyse de données basique
-* correction et amélioration de code existant
-
-👉 Je privilégie des missions **claires**, **bien définies**.
+- extraction de données depuis plusieurs pages web,
+- gestion de la pagination,
+- sauvegarde en fichiers CSV,
+- nettoyage automatique des données,
+- génération de rapports récapitulatifs.
 
 ---
 
-## 🧑‍💻 Méthode de travail
+## 🎯 Objectif
 
-* compréhension précise du besoin
-* solution simple et efficace
-* code propre et structuré
-* explications claires si nécessaire
+Développer des compétences solides en Python appliqué à :
+- l’automatisation de tâches,
+- l’analyse de données,
+- la collecte d’informations via le web.
 
----
-
-## 📌 À propos
-
-Ce GitHub reflète mon **niveau réel**, ma rigueur et mon envie de progresser à travers des projets concrets.
+À terme, proposer des **services freelance en Python** : scripts sur mesure, scraping, nettoyage et analyse de données.
 
 ---
 
-### 💬 Me contacter
+## 📫 Me contacter
 
-Via GitHub ou la plateforme sur laquelle vous m’avez trouvé.
-
----
-
-## 🔎 Pourquoi me faire confiance ?
-
-* sérieux et rigueur
-* communication claire
-* solutions adaptées
-* motivation et progression constante
+- GitHub : https://github.com/MatteoRoulle
+- LinkedIn : (en cours de configuration)
