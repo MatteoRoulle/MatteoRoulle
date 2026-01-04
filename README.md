@@ -1,6 +1,6 @@
 # 👋 Services Python
 
-Développeur Python en Terminale, spécialisé dans la **résolution de problèmes**, l’**algorithmique** et la **manipulation de données simples**.
+Développeur Python en Terminale, spécialisé dans la **résolution de problèmes**, l’**algorithmique** et la **manipulation de données**.
 
 ---
 
@@ -82,4 +82,4 @@ Projet complet de **scraping web**, nettoyage et analyse de données e-commerce 
 ## 📫 Me contacter
 
 - [GitHub](https://github.com/MatteoRoulle)
-- [LinkedIn](https://www.linkedin.com/in/matt%C3%A9o-roulle-9468863a0/)
+- Discord : 01893718541
